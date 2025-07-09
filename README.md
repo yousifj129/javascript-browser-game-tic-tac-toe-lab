@@ -1,1 +1,2 @@
 # javascript-browser-game-tic-tac-toe-lab
+I started off by following the instructions and exercises, and then did things on my own. That's why you might find some trashy code everywhere but it works so 🤷‍♂️
